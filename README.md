@@ -8,4 +8,4 @@ You can find here a few of the repositories I've drawn on in my brief efforts as
 
 Graduate school, where I plan to specialize as I start earning a PhD, is my next step.
 
-You can reach me via [email](j.wesley.dell@gmail.com).
+You can reach me via [email](mailto:j.wesley.dell@gmail.com).
