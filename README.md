@@ -1,4 +1,4 @@
-I’m J. W. Dell, a senior undergraduate in the Department of Chemistry at Dartmouth College (Hanover, NH, USA).
+I’m J. W. Dell, a senior (fourth-year) undergraduate in the Department of Chemistry at Dartmouth College (Hanover, NH, USA).
 
 My research interests include organic synthesis, homogeneous and organometallic catalysis, machine learning and neural network applications in molecular biophysics and catalysis, and materials and renewable energy.
 
