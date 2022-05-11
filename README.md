@@ -6,6 +6,6 @@ Object-oriented programming is my current strong suit, and I'm learning more abo
 
 You can find here a few of the repositories I've drawn on in my brief efforts as a computational biophysics research assistant (with Professor Paul Robustelli). The rest of my work is private for academic honor and pre-publication confidentiality reasons. My primary research efforts over the last several months have been for an organic total synthesis project with Professor Gordon Gribble.
 
-Graduate school, where I plan to specialize as I start earning a PhD, is my next step.
+Graduate school at the University of Virginia, where I plan to specialize as I start earning a PhD, is my next step.
 
 You can reach me via [email](mailto:j.wesley.dell@gmail.com).
